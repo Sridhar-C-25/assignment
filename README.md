@@ -1,5 +1,8 @@
 # assignment
 
-1.Npm i
-Start project:
-2.Npm run dev
+### Vite + React + tailwind
+
+```bash 
+npm i
+npm run dev
+```
