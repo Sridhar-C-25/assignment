@@ -1,5 +1,5 @@
 # assignment
 
-Npm i
+1.Npm i
 Start project:
-Npm run dev
+2.Npm run dev
